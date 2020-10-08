@@ -60,14 +60,15 @@ START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
         "Hi. ☺️\n"
-        "subs @curhatfess before curhat 😬"
+        "subs @curhatfess 😬\n\n"
     )
 )
 # check online status of your bot
 ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
-        "i am online <b>master</b>\n\n"
+        "Hi. ☺️\n"
+        "subs @curhatfess 😬\n\n"
     )
 )
 # IDEKWBYRW
